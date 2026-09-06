@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "ပါဠိ + အင်္ဂလိပ် + မြန်မာ စကားပြော",
+  "short_name": "ပါဠိစကားပြော",
+  "lang": "my",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f1ea",
+  "theme_color": "#7FBF7A",
+  "icons": [
+    {
+      "src": "./pali-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pali-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
